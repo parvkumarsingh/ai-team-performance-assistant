@@ -1,0 +1,6 @@
+streamlit
+pandas
+mysql-connector-python
+python-dotenv
+transformers==4.41.0
+torch
